@@ -5,6 +5,10 @@ sources:
     schema: staging_layer
 
     tables:
-      - name: STG_CUSTOMERS
-      - name: STG_PAYMENTS
-      - name: STG_ORDERS
+      - name: stg_customers
+      - name: stg_payments
+      - name: stg_orders
+      - name: stg_items
+      - name: stg_products
+      - name: stg_supplies
+      - name: stg_stores
